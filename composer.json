@@ -1,0 +1,8 @@
+{
+    "require": {
+        "smarty/smarty": "^4.4",
+        "symfony/dotenv": "^7.0",
+        "monolog/monolog": "^3.5",
+        "ivopetkov/html5-dom-document-php": "^2.7"
+    }
+}
