@@ -168,11 +168,6 @@ input[type="number"] {
     align-items: center;
 }
 
-#prepended,
-#appended {
-    padding: 0;
-}
-
 .form {
     padding: 0;
 }
